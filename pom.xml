@@ -34,12 +34,7 @@
 			<version>5.0.0.RELEASE</version>
 		</dependency>
    
-       <dependency>
-			<groupId>testClient</groupId>
-			<artifactId>testClient</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-		</dependency>
+      
 
 		<!-- AspectJ -->
 		<dependency>
