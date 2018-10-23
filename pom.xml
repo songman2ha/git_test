@@ -33,6 +33,14 @@
 			<artifactId>spring-security-web</artifactId>
 			<version>5.0.0.RELEASE</version>
 		</dependency>
+      ###########  
+       <dependency>
+			<groupId>testClient</groupId>
+			<artifactId>testClient</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/var/lib/jenkins/workspace/jenkins_test/src/main/java/com/bitkrx/config/util/DmExcelUtil.java</systemPath>
+		</dependency>
 
 		<!-- AspectJ -->
 		<dependency>
